@@ -6,7 +6,11 @@ This project involved designing and implementing a centralized monitoring and st
 
 ## Architecture Diagram
 
-Architecture diagram will be uploaded here.
+## Architecture Diagram
+
+The architecture consists of two application servers running Datadog agents. Logs are forwarded to Datadog for monitoring and analysis. Slack is integrated for alert notifications, while Amazon EFS provides shared storage accessible from multiple application servers.
+
+![Architecture Diagram](aws-monitoring-architecture.png)
 
 ## Technologies Used
 
