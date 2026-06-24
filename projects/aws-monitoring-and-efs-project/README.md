@@ -57,3 +57,10 @@ Validated the EFS mount from the Linux application server using SSH.
 - Integrated monitoring alerts with Slack notifications.
 - Validated EFS mounting and file sharing from Linux servers.
 - Demonstrated infrastructure monitoring, storage management, and troubleshooting skills.
+## Security Considerations
+
+- EFS encrypted at rest.
+- Principle of least privilege applied to AWS resources.
+- Access to EFS controlled through Access Points.
+- Monitoring and alerting configured to detect operational issues.
+- Linux permissions validated for shared storage access.
