@@ -43,3 +43,11 @@ Validated the EFS mount from the Linux application server using SSH.
 - Incident Response
 - Log Management
 - Technical Troubleshooting
+## Key Achievements
+
+- Deployed a centralized monitoring solution using Datadog.
+- Configured Amazon EFS for shared storage across multiple EC2 instances.
+- Implemented EFS Access Points for secure file system access.
+- Integrated monitoring alerts with Slack notifications.
+- Validated EFS mounting and file sharing from Linux servers.
+- Demonstrated infrastructure monitoring, storage management, and troubleshooting skills.
