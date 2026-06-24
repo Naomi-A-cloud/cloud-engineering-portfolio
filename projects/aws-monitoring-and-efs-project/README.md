@@ -18,7 +18,13 @@ Created an encrypted Amazon Elastic File System (EFS) to provide scalable shared
 ## Amazon EFS Access Point
 
 Configured an EFS Access Point to manage secure application access.
+## Security Considerations
 
+- EFS encrypted at rest.
+- Principle of least privilege applied to AWS resources.
+- Access to EFS controlled through Access Points.
+- Monitoring and alerting configured to detect operational issues.
+- Linux permissions validated for shared storage access.
 ![Amazon EFS Access Point](aws-efs-access-point.png)
 
 ## Linux EFS Validation
