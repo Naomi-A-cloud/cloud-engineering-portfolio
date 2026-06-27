@@ -42,3 +42,5 @@ This project demonstrates the implementation of centralized monitoring, alerting
 LinkedIn: [www.linkedin.com/in/naomi-nwogu-8339a5215](http://www.linkedin.com/in/naomi-nwogu-8339a5215)
 
 GitHub: github.com/Naomi-A-cloud
+## CI/CD Test
+Slack notification test from Azure DevOps.
