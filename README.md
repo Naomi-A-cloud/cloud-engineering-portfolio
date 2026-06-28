@@ -33,9 +33,6 @@ This project demonstrates the implementation of centralized monitoring, alerting
 
 * ICDFA Cloud Engineering Program
 * Digital Witch Cloud Security Program
-* Amdari Cybersecurity Internship
-* 10Alytics Cybersecurity Training
-* Tech4Dev Technology Scholarship
 
 ## Connect With Me
 
